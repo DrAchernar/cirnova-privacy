@@ -4,7 +4,7 @@
 
 Cirnova is a one-thumb puzzle game. Gameplay works offline. Rankings and ads use the internet.
 
-Contact: mehmetemre.go@icloud.com · [github.com/DrAchernar](https://github.com/DrAchernar)
+Contact: mehmet.emre.gok@icloud.com · [github.com/DrAchernar](https://github.com/DrAchernar)
 
 ---
 
