@@ -6,6 +6,12 @@ Cirnova is a one-thumb puzzle game. Gameplay works offline. Rankings and ads use
 
 Contact: mehmet.emre.gok@icloud.com · [github.com/DrAchernar](https://github.com/DrAchernar)
 
+## Support
+
+For Cirnova help, bugs, or account/leaderboard questions, email **mehmet.emre.gok@icloud.com** or open an issue on this repository.
+
+Cirnova desteği, hata bildirimi veya sıralama soruları için **mehmet.emre.gok@icloud.com** adresine yazın veya bu repoda issue açın.
+
 ---
 
 ## English
